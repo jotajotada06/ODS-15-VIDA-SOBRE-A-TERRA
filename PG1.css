@@ -1,0 +1,23 @@
+body{
+	font-family:helvertica, sans-serif;
+	background-image: url("formfundo.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+}	
+main{
+	display: flex;
+	justify-content: center;
+	align-items:center;
+	height:700px;
+	font-size:30px;
+}
+h3{
+	font-size:40px;
+}
+a{
+	font-family:arial;
+	color:black;
+}
+
+

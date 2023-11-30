@@ -1,0 +1,49 @@
+body{
+	background-color: #ffffff;
+	background-image:url;
+	background-repeat:no-repeat;
+}
+h1{
+	font-size:47px;
+	color: red;
+	text-align: center;
+	font-family:Verdana;
+}	
+#minha{
+	background-color:green;
+}
+#ka{
+	font-family:arial;
+	font-size:34px;
+}
+#desafios{
+	background-repeat:no-repeat;
+	font-family:arial;
+	font-size:34px;
+}
+@media only screen and (max-width:500px){
+	body{
+		background:yellow;
+		}
+}
+#DESAFIOS{
+	font-family:arial;
+	font-size:47px;
+}
+#PAPEL{
+	font-family:arial;
+	font-size:47px;
+
+}
+#METAS{
+	font-family:arial;
+	font-size:47px;
+}
+#direitos{
+	font-size:20px;
+	
+	
+}
+
+
+	
