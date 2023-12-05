@@ -11,17 +11,11 @@ h1{
 #CAIXAODS{
 	background-color:green;
 }
-#desafios{
-        background-repeat:no-repeat;
-	color:green;
-	font-family:arial;
-	font-size:47px;
-}
 @media only screen and (max-width:500px){
 	body{
 		background:yellow;
 		}
-}paragrafodesafiosenfrentados{
+#paragrafodesafiosenfrentados{
 	font-family:arial;
 	font-size:47px;
 }
