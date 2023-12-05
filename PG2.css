@@ -6,9 +6,11 @@ h1{
 	color: red;
 	text-align: center;
 	font-family:Verdana;
+	justify-content:center;
 }	
 #CAIXAODS{
 	background-color:white;
+	justify-content:center;
 }
 @media only screen and (max-width:500px){
 	body{
